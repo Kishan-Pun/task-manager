@@ -50,12 +50,16 @@ This project was developed as part of an internship assignment within a limited 
 
 ## ▶️ How to Run the Project Locally
 
+## Note: The backend server must be running before starting the frontend.
+
 ### 📦 Backend Setup
 
 1. Navigate to the backend folder:
 - cd task-manager-backend
 - npm install
 - npm run dev
+
+### 📦 Backend Setup
 
 2. Navigate to the frontend folder:
 - cd task-manager-frontend
