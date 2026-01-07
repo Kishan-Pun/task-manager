@@ -53,11 +53,11 @@ This project was developed as part of an internship assignment within a limited 
 ### 📦 Backend Setup
 
 1. Navigate to the backend folder:
-cd task-manager-backend
-npm install
-npm run dev
+- cd task-manager-backend
+- npm install
+- npm run dev
 
 2. Navigate to the frontend folder:
-cd task-manager-frontend
-npm install
-npm run dev
+- cd task-manager-frontend
+- npm install
+- npm run dev
